@@ -1,0 +1,15 @@
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\bin\Debug\net5.0\Aplication.deps.json
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\bin\Debug\net5.0\Aplication.dll
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\bin\Debug\net5.0\Aplication.pdb
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\bin\Debug\net5.0\Domain.dll
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\bin\Debug\net5.0\Domain.pdb
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\obj\Debug\net5.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\obj\Debug\net5.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\obj\Debug\net5.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\obj\Debug\net5.0\Aplication.AssemblyInfo.cs
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\obj\Debug\net5.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\obj\Debug\net5.0\Aplication.csproj.CopyComplete
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\obj\Debug\net5.0\Aplication.dll
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\obj\Debug\net5.0\refint\Aplication.dll
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\obj\Debug\net5.0\Aplication.pdb
+C:\Users\VINICIUS\source\Workspaces\Workspace\GlobalTeste\src\Aplication\obj\Debug\net5.0\ref\Aplication.dll

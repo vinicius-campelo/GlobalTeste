@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lAtwxdy/wSHEk4iXYNt1i4i/FNc2QKK1M8uXnOJKR0ZArA53D4VeqmxhIpezSrZNIamd838joQF25YoswzNsTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VINICIUS\\source\\Workspaces\\Workspace\\GlobalTeste\\src\\Aplication\\Aplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VINICIUS\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\VINICIUS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
