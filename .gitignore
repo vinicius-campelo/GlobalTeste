@@ -1,0 +1,7 @@
+Saída-Compilação.txt
+*.exe
+*.pdb
+*.manifest
+*.cache
+*.bin/Debug
+*.obj/Debug
