@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LKnizrcc9VETqzv+9oTbCCCATsT/kxOSrz3skk/oNk4I6mXJeHrdEbHv5KozjhnRuxWXjf0BACj9u0hMrcmBIg==",
+  "dgSpecHash": "wvMB6Yo1s0i1zFtuWc7iwbQGYQsvDl+RhDTdMTjl76oyzcoPjeluBwRIN0HO8eEx4FmG3ANju1A4+wTU2XlTAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VINICIUS\\source\\Workspaces\\Workspace\\GlobalTeste\\src\\WebSemBanco\\WebSemBanco.csproj",
+  "projectFilePath": "C:\\Users\\VINICIUS\\source\\repos\\global\\GlobalTeste\\src\\WebSemBanco\\WebSemBanco.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VINICIUS\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\VINICIUS\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

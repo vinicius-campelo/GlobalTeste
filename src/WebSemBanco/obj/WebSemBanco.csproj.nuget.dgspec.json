@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VINICIUS\\source\\Workspaces\\Workspace\\GlobalTeste\\src\\WebSemBanco\\WebSemBanco.csproj": {}
+    "C:\\Users\\VINICIUS\\source\\repos\\global\\GlobalTeste\\src\\WebSemBanco\\WebSemBanco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VINICIUS\\source\\Workspaces\\Workspace\\GlobalTeste\\src\\WebSemBanco\\WebSemBanco.csproj": {
+    "C:\\Users\\VINICIUS\\source\\repos\\global\\GlobalTeste\\src\\WebSemBanco\\WebSemBanco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VINICIUS\\source\\Workspaces\\Workspace\\GlobalTeste\\src\\WebSemBanco\\WebSemBanco.csproj",
+        "projectUniqueName": "C:\\Users\\VINICIUS\\source\\repos\\global\\GlobalTeste\\src\\WebSemBanco\\WebSemBanco.csproj",
         "projectName": "WebSemBanco",
-        "projectPath": "C:\\Users\\VINICIUS\\source\\Workspaces\\Workspace\\GlobalTeste\\src\\WebSemBanco\\WebSemBanco.csproj",
+        "projectPath": "C:\\Users\\VINICIUS\\source\\repos\\global\\GlobalTeste\\src\\WebSemBanco\\WebSemBanco.csproj",
         "packagesPath": "C:\\Users\\VINICIUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VINICIUS\\source\\Workspaces\\Workspace\\GlobalTeste\\src\\WebSemBanco\\obj\\",
+        "outputPath": "C:\\Users\\VINICIUS\\source\\repos\\global\\GlobalTeste\\src\\WebSemBanco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

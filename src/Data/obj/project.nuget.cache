@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Safophrm0WsSbHFeuAZXfr61CnQbvLFGsOYtS1GDJRq3NGhlZ8kvOE0AWkWP8YnjVwx5NYt/rPVetNymkBhtZQ==",
+  "dgSpecHash": "WvPX37Xo3xCxJI5tmjDWTZOjgQO/HQ0lrfLpwP3NiNQd4SX6Uhl/0HYPinMnWmcyzNvBmxjH59wo5+UtBRoGLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VINICIUS\\source\\Workspaces\\Workspace\\GlobalTeste\\src\\Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\VINICIUS\\source\\repos\\global\\GlobalTeste\\src\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VINICIUS\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\VINICIUS\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
